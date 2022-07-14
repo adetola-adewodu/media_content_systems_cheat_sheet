@@ -1,12 +1,9 @@
 # Media Contents Systems Cheat Sheet
 
-We use the following tools to Analyze video and audio: 
-- FFMPEG (https://www.ffmpeg.org/) used to transcode and analyze audio and video
- - https://github.com/FFmpeg/FFmpeg
-- MediaInfo (https://mediaarea.net/en/MediaInfo)
-Used to analyze audio and video
-https://github.com/MediaArea/MediaInfo 
-- Vidchecker
+We use the following tools to analyze/inspect video and audio: 
+- FFMPEG (https://www.ffmpeg.org/): used to transcode and analyze audio and video
+- MediaInfo (https://mediaarea.net/en/MediaInfo): Used to analyze audio and video
+- Vidchecker: http://www.telestream.net/vidchecker/overview.htm
  
 The formats that we are usually convert to:
 - DNX HD MXF
