@@ -5,6 +5,12 @@ We use the following tools to analyze/inspect video and audio:
 - MediaInfo (https://mediaarea.net/en/MediaInfo): Used to analyze audio and video
 - Vidchecker: http://www.telestream.net/vidchecker/overview.htm
  
+Video Encodings: 
+- SD
+- HD
+- UHD
+- 4k
+
 The formats that we are usually convert to:
 - DNX HD MXF
 - XDCAM HD MXF
