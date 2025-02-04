@@ -4,7 +4,7 @@
 
 ## Non Linear Supply Chain International Workflow
 
-    ![](./diagrams/Simplified%20Non%20Linear%20Diagram.jpeg)
+    ![](diagrams/Simplified%20Non%20Linear%20Diagram.jpeg)
 
 ## Create Media system design using diagrams python package
    
