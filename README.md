@@ -8,7 +8,20 @@
 
 ## Media Converstion using AWS Infrastructure
 
-![Non-Linear](diagrams/AWS-Based-Media-Conversion.png)
+![Media Conversion](diagrams/MediaConversion.png)
+
+Transcoding Tools: 
+FFMPEG
+- Create proxies
+- Convert file to another format - Rewrap
+- Create audio files from video files
+- Create clips 
+Vantage – Transcode and Rewrap
+Amberfin Dark- Transcode and Rewrap
+Adobe Media Encoder (Media Encoder) – Transcode and Rewrap
+Radiant Grid/Wormhole – Standards Conversion and Time Compression
+
+
 
 ## Create Media system design using diagrams python package
    
