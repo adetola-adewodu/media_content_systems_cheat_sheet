@@ -21,6 +21,21 @@ Amberfin Dark- Transcode and Rewrap
 Adobe Media Encoder (Media Encoder) – Transcode and Rewrap
 Radiant Grid/Wormhole – Standards Conversion and Time Compression
 
+Video Encodings: 
+- SD
+- HD
+- UHD
+- 4k
+
+The formats that we are usually convert to:
+- DNX HD MXF
+- XDCAM HD MXF
+ 
+Preferred Frame Rates:
+- 25, 50 for International
+- 29.97, 59.94 for US
+
+
 Types of Transcoding: 
 - Transcode – Change from one video format to another (MXF to MXF is a basic transcode)
 - Rewrap – Change a format from MOV/MXF to MXF (Usually from DNX HD MOV to DNX HD MXF)
