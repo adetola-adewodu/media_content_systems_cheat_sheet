@@ -6,6 +6,10 @@
 
 ![Non-Linear](diagrams/Simplified-Non-Linear-Diagram.png)
 
+## Media Converstion using AWS Infrastructure
+
+![Non-Linear](diagrams/AWS%20Based%20Media%20Conversion.drawio.png
+
 ## Create Media system design using diagrams python package
    
     1. `python3 -m venv env`
