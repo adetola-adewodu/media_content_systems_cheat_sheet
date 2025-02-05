@@ -2,9 +2,12 @@
 
     This is repo is used to demostrate Media Content Systems Experience
 
+
 ## Non Linear Supply Chain International Workflow
 
 ![Non-Linear](diagrams/Simplified-Non-Linear-Diagram.png)
+
+Make money using content for streaming platforms internationally. That means content for the US, Europe, Asia, Middle East and North Africa (MENA), Latina America
 
 ## Media Converstion using AWS Infrastructure
 
