@@ -1,0 +1,6 @@
+file img/IMG_1518.jpg		
+duration 1
+file img/IMG_1520.jpg duration 2
+file IMG_1521.jpg duration 3
+file /Users/Adetola/Pictures/Twitter\ Profile\ Image\ Ade\ Labs.png 
+duration 4
