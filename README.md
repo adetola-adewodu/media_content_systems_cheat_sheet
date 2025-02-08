@@ -1,64 +1,73 @@
 # Media Content Systems Experience
 
-    This is repo is used to demostrate Media Content Systems Experience
+A comprehensive project demonstrating professional media content processing, international distribution workflows, and broadcast standards implementation.
 
+## Project Overview
+
+This repository showcases expertise in media content systems, focusing on international content distribution and professional video processing workflows. It covers the technical aspects of preparing and delivering content for streaming platforms across multiple regions including the US, Europe, Asia, Middle East and North Africa (MENA), and Latin America.
 
 ## Non Linear Supply Chain International Workflow
 
 ![Non-Linear](diagrams/Simplified-Non-Linear-Diagram.png)
 
-Make money using content for streaming platforms internationally. That means content for the US, Europe, Asia, Middle East and North Africa (MENA), Latina America
-
-## Media Converstion using AWS Infrastructure
+## Media Conversion Infrastructure
 
 ![Media Conversion](diagrams/MediaConversion.png)
 
-Transcoding Tools: 
-FFMPEG
-- Create proxies
-- Convert file to another format - Rewrap
-- Create audio files from video files
-- Create clips 
-Vantage – Transcode and Rewrap
-Amberfin Dark- Transcode and Rewrap
-Adobe Media Encoder (Media Encoder) – Transcode and Rewrap
-Radiant Grid/Wormhole – Standards Conversion and Time Compression
+### Transcoding Tools
+- **FFMPEG** - Versatile tool for:
+  - Proxy creation
+  - Format conversion and rewrapping
+  - Audio extraction
+  - Clip generation
+- **Vantage** - Transcode and rewrap capabilities
+- **Amberfin Dark** - Transcode and rewrap capabilities
+- **Adobe Media Encoder** - Transcode and rewrap capabilities
+- **Radiant Grid/Wormhole** - Specialized in standards conversion and time compression
 
-Video Encodings: 
+### Video Specifications
+
+#### Supported Resolutions
 - SD
 - HD
 - UHD
-- 4k
+- 4K
 
-The formats that we are usually convert to:
+#### Primary Output Formats
 - DNX HD MXF
 - XDCAM HD MXF
- 
-Preferred Frame Rates:
-- 25, 50 for International
-- 29.97, 59.94 for US
 
+#### Standard Frame Rates
+- International: 25 fps, 50 fps
+- US: 29.97 fps, 59.94 fps
 
-Types of Transcoding: 
-- Transcode – Change from one video format to another (MXF to MXF is a basic transcode)
-- Rewrap – Change a format from MOV/MXF to MXF (Usually from DNX HD MOV to DNX HD MXF)
-- Standards Conversion – Convert from one frame rate to another frame rate
-- Frame Rate Conversion
-- 23 to 50 for International
-- 59 to 50 for International
-- 23 to 59 for US
-- 50 to 59 for US
+### Types of Video Processing
 
-Frame Rate + Video Format Conversion
-- 23 DNX HD MXF, XDCAM MXF to 59.94 XDCAM MXF 
-- 50 DNX HD MXF, XDCAM MXF to 59.94 XDCAM MXF
-- Time Compression - When you compress time in a video, you are making the duration shorter than real-time. 
-- 30 seconds as a percentage of the video
+#### 1. Basic Transcoding
+- Format-to-format conversion (e.g., MXF to MXF)
+- Rewrapping (e.g., DNX HD MOV to DNX HD MXF)
+
+#### 2. Standards Conversion
+Frame Rate Conversion Examples:
+- International Markets:
+  - 23 fps → 50 fps
+  - 59 fps → 50 fps
+- US Markets:
+  - 23 fps → 59 fps
+  - 50 fps → 59 fps
+
+#### 3. Combined Format and Frame Rate Conversion
+- 23 fps DNX HD/XDCAM MXF → 59.94 fps XDCAM MXF
+- 50 fps DNX HD/XDCAM MXF → 59.94 fps XDCAM MXF
+
+#### 4. Time Compression
+Duration reduction options:
+- 30 seconds (percentage-based)
 - 45 seconds
 - 60 seconds
 
+## Additional Resources
 
-Also, here is an introduction to video engineering on github as well. 
- 
-https://github.com/adedot/digital_video_introduction
+For an introduction to video engineering fundamentals, visit:
+[Digital Video Introduction](https://github.com/adedot/digital_video_introduction)
 
